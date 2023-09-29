@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {},
   "keywords": [],
   "author": "",
@@ -13,6 +14,7 @@
     "typescript": "^5.2.2"
   },
   "devDependencies": {
-    "@types/node": "^20.7.2"
+    "@types/node": "^20.7.2",
+    "ts-node": "^10.9.1"
   }
 }
